@@ -1,5 +1,5 @@
 /**
- * Author: Phillip Schwab CJai Payne
+ * Author: Phillip Schwab
  * Date: 2019/15/01
  *
  * A simple hello world program in C
